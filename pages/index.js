@@ -1,5 +1,8 @@
 function Home() {
-    return <h1>Agora sim ein</h1>
+    return <main>
+        <h1>Aí sim ein</h1>
+        <p>O curso está muito bom!</p>
+    </main>
 }
 
 export default Home;
